@@ -1,5 +1,5 @@
 # DetectMouseEvents
-Detect if a mouse event injected!
+Detect if a mouse event was injected!
 
 This code was initially written to show how easy it is to detect those AHK-Aimbots/Pixel Aimbots, 
 that use functions like SendMessage/mouse_event/SendInput...
