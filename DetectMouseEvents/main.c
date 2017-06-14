@@ -1,8 +1,7 @@
 /*
 Author: Lyan
 
-I saw many threads where people have asked whether those "AHK-Cheats" or generally pixel "aimbots" in Overwatch, or in general
-can be detected.
+I saw many threads where people have asked whether those "AHK-Cheats" or generally pixel "aimbots" in Overwatch, can be detected.
 
 This is an easy example, on how to detect if a mouse event was triggered by hardware or was injected by another process.
 This program will trigger a messagebox as soon as mouse input was received not by hardware.
